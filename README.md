@@ -14,8 +14,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SOHAM-GADEKAR&layout=compact&theme=tokyonight&cache_seconds=86400)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SOHAM-GADEKAR&theme=highcontrast&cache_seconds=86400)
-
 <!---
 SOHAM-GADEKAR/SOHAM-GADEKAR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
