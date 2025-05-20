@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SOHAM-GADEKAR
-- 👀 I’m interested in Web Development
-- 💞️ I’m looking to collaborate on Web-Dev projects
+- 👀 I’m interested in Core Programming
 - 📫 How to reach me sohamg.3456@gmail.com
 - ⚡ Fun fact: I can draw you 😉✌️
 
